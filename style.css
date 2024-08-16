@@ -1,0 +1,69 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  
+}
+
+.hero,
+.footer {
+  background-color: #1F2937;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  margin: 0 100px;
+}
+
+.logo {
+  margin-right: auto;
+  font-size: 24px;
+  font-weight: bold;
+  color: #F9FAF8;
+  margin: 0;
+  padding: 8px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  margin: 0 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  
+}
+
+li {
+  
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #E5E7EB;
+}
